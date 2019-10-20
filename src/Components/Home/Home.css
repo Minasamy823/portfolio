@@ -36,8 +36,12 @@ height: 100%;
   padding: 25px;
   margin: 11px;
 }
+.git{
+  color:yellow;
+}
 .bar ul li a{
   text-decoration: none;
+  font-size: 35px;
   color: white;
 }
 .bar ul li a:focus{

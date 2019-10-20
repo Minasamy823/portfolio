@@ -25,7 +25,7 @@ export default class Home extends Component{
         <div className='bar'>
             <ul>
             <Animated animationIn='bounceInLeft' animationInDuration='5500'>
-              <li> <a href='https://github.com/'>GitHub</a></li>
+              <li > <a className='git' href='https://github.com/'>GitHub</a></li>
             </Animated>
             </ul>
           </div>
@@ -55,7 +55,7 @@ export default class Home extends Component{
               <p className='line'> </p>
               <div className='para_con'>
                   <p className='para'>
-                      I'm Mina Samy i'm from Egypt, have been living in Russia for 3 years, studying and practicing programming.
+                      I'm Mina Samy, from Egypt, have been living in Russia for 3 years, studying and practicing programming.
                       I adore working with codes and solving challenging programming problems.
                       I can speak three languages (Arabic, English and Russian).
                       I have experience working with Python's framework (Django) for the backend with Django REST API.
